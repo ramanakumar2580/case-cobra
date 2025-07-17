@@ -1,14 +1,1 @@
-{
-  "node": {
-    "4506633dc0ea935867e7496cee711ba253847f2b": {
-      "workers": {
-        "app/configure/design/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Framanakumar%2Fcasecobra%2Fsrc%2Fapp%2Fconfigure%2Fdesign%2FActions.ts%22%2C%5B%22saveConfig%22%5D%5D%5D&__client_imported__=true!"
-      },
-      "layer": {
-        "app/configure/design/page": "action-browser"
-      }
-    }
-  },
-  "edge": {},
-  "encryptionKey": "VCqAs9yzQGHD5YS0uujTnWyel025iA9KCsjgdjqxZUw="
-}
+{"node":{"4506633dc0ea935867e7496cee711ba253847f2b":{"workers":{"app/configure/design/page":"8372"},"layer":{"app/configure/design/page":"action-browser"}}},"edge":{},"encryptionKey":"6/ZFL8/bmGUszPw0hEAtsUaiDo1jdnedW45DCK26434="}
